@@ -1,0 +1,40 @@
+* {
+    background-color: navy;
+}
+
+body {
+    margin: 0;
+}
+
+h2 {
+    font-family: Cambria;
+    color: whitesmoke;
+    font-weight: 700;
+    font-size: 40px;
+    text-align: center;
+}
+
+h3 {
+    font-family: Cambria;
+    background-color: black;
+    color: red;
+    font-weight: 700;
+    font-size: 40px;
+    text-align: center;
+}
+
+button {
+    font-family: Cambria;
+    background-color: navy;
+    color: lightblue;
+    border-color: lightblue;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+}
+
+.container {
+    display: flex;
+    justify-content: space-around;
+    color: white;
+}
